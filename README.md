@@ -1,9 +1,5 @@
 ### Hi there, my name is Anuar Ocampo,  👋
-<h1>About me</h1>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=A-Ocampo-Ruiz&show_icons=true&theme=transparent" />
-<img align="left" width="47%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Ocampo-Ruiz&layout=compact" />
-<br>
 <br>
 <h1>Experience</h1>
 <h2>Programming Languages</h2>
@@ -27,3 +23,8 @@
 <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="OracleDB" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+<br>
+<h1>About me</h1>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=A-Ocampo-Ruiz&show_icons=true&theme=transparent" />
