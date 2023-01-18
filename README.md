@@ -39,6 +39,8 @@
 
 <br>
 <br>
+<!-- 
 <h1>Github activity</h1>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=A-Ocampo-Ruiz&show_icons=true&theme=transparent" />
+-->
