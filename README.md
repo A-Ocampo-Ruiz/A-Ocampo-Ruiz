@@ -1,4 +1,4 @@
-### Hi there, my name is Anuar Ocampo,  👋
+### Hi there, my name is Ava Ocampo,  👋
 
 <h2>Programming Languages</h2>
 <img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
